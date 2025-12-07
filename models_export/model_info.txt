@@ -1,0 +1,6 @@
+Classes: class_0, class_1
+Baseline ValAcc Full: 0.7366
+Baseline ValAcc Exit1: 0.6089
+Early Exit Threshold: 0.62000
+Exit1 TFLite size (bytes): 8576
+Full TFLite size (bytes): 27832
