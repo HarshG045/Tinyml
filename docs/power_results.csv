@@ -1,0 +1,5 @@
+timestamp,inference_type,latency_ms,power_mw,energy_mj
+2026-03-12 10:00:00,Full Model,125,110,13.75
+2026-03-12 10:00:05,Early Exit 1,45,108,4.86
+2026-03-12 10:00:10,Full Model,126,110,13.86
+2026-03-12 10:00:15,Early Exit 1,46,108,4.96
